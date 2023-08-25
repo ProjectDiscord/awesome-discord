@@ -19,7 +19,6 @@
 
 <h3 align='center'>An awesome list of resources for the voice and chat application Discord.</h3>
 
-
 ## 📝 Categories
 
 - [Bots](#-bots)
@@ -28,7 +27,6 @@
 - [Modifications](#-modifications)
 - [Subreddits](#-popular-subreddits)
 - [Official Resources](#-official-resources)
-- [Community Resources](#-community-resources)
 
 ## 👮 Discord.com Pages
 
@@ -117,6 +115,12 @@
 
 **[Back To Top](#-contents)**
 
+- [BetterDiscord](https://betterdiscord.net/) - BetterDiscord is a popular client mod for Discord that allows you to customize the look and feel of the Discord app. It offers themes, plugins, and custom CSS support to enhance your Discord experience.
+- [Powercord](https://powercord.dev/) - Powercord is a similar client mod to BetterDiscord, providing the ability to apply custom themes, plugins, and features to Discord. It's especially popular among those who enjoy more extensive customization options.
+- [Vencord](https://vencord.com/) - Vencord is a client modification for Discord that brings various features like custom themes, plugins, emotes, and more. It aims to provide a sleek and streamlined user interface while allowing for personalization and improvements.
+
+> Please remember that using client mods like BetterDiscord, Powercord, and Vencord might potentially go against Discord's Terms of Service, as they involve modifying the official client. Be sure to consider the potential risks and adhere to Discord's guidelines while using such modifications.
+
 ## <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" height="22"> Subreddits
 
 **[Back To Top](#-contents)**
@@ -129,8 +133,24 @@
 
 **[Back To Top](#-contents)**
 
-## 💁‍ Community Resources
-
-**[Back To Top](#-contents)**
-
-> STILL BEING WORKED ON CHILL DUDE
+- [Discord](https://dis.gd/) - Imagine a place… where links were not so long.
+- [How to Report](https://dis.gd/howtoreport) - A guide on how to properly report issues to Discord’s Trust and Safety team.
+- [How to Report (DMA Article)](https://dis.gd/dma104) - A guide on how to properly report issues to Discord’s Trust and Safety team.
+- [How to get user IDs](https://dis.gd/findmyid) - A guide on how to find IDs.
+- [Discord Bugs](https://bugs.discord.com/) - The official tool to look up reported and approved bugs.
+- [Discord Testers Bug Tool](https://dis.gd/bug-tool) - The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.
+- [Discord Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) - A guide on downloading and using Discord testing clients for all platforms.
+- [Discord Community Resources](https://discord.com/community) - Resources for setting up and maintaining a community server.
+- [Discord Moderator Academy](https://dis.gd/moderation) - Discord’s official resources for moderators, written by moderators.
+- [Discord Open Source](https://discord.com/open-source) - This is the source list of OSS communities that use and live on Discord.
+- [Discord Branding](https://discord.com/branding) - Discord’s branding assets and guidelines.
+- [Discord Branding (Dribbble)](https://discord.design/) - Discord’s branding assets and guidelines.
+- [Discord Nitro](https://dis.gd/nitro) - Information about Nitro subscriptions.
+- [Discord Status Page](https://dis.gd/status) - Provides information on the current status of the Discord services.
+- [Discord Developer Portal](https://discord.com/developers/) - The main website for developers to manage their apps, teams, OAuth2 scopes and more.
+- [Discord Developer Docs](https://discord.dev/) - The documents detailing how all types of interactions are handled, and a resource for bot developers.
+- [Discord Security Bug Bounties](https://discord.com/security) - The place to submit security vulnerabilities within Discord.
+- [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022) - The most recent update on the security team’s actions and terminations.
+- [Discord’s (new) Media Kit](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1) - Discord’s official assets.
+- [Discord Developer Help Center](https://support-dev.discord.com/) - An official Discord navigation page with support articles for developers.
+- [Discord Blog RSS Feed](https://discord.com/blog/rss.xml) - Official RSS Feed of Discords Blog.
