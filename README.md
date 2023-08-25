@@ -19,6 +19,8 @@
 
 <h3 align='center'>An awesome list of resources for the voice and chat application Discord.</h3>
 
+> Help contribute by reading [contributing.md](./CONTRIBUTING.md)
+
 ## 📝 Categories
 
 - [Bots](#-bots)
