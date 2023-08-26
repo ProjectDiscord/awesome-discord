@@ -137,7 +137,7 @@
 
 - [Discord](https://dis.gd/) - Imagine a place… where links were not so long.
 - [How to Report](https://dis.gd/howtoreport) - A guide on how to properly report issues to Discord’s Trust and Safety team.
-- [How to Report (DMA Article)](https://dis.gd/dma104) - A guide on how to properly report issues to Discord’s Trust and Safety team.
+  - [How to Report (DMA Article)](https://dis.gd/dma104) - A guide on how to properly report issues to Discord’s Trust and Safety team.
 - [How to get user IDs](https://dis.gd/findmyid) - A guide on how to find IDs.
 - [Discord Bugs](https://bugs.discord.com/) - The official tool to look up reported and approved bugs.
 - [Discord Testers Bug Tool](https://dis.gd/bug-tool) - The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.
@@ -146,7 +146,7 @@
 - [Discord Moderator Academy](https://dis.gd/moderation) - Discord’s official resources for moderators, written by moderators.
 - [Discord Open Source](https://discord.com/open-source) - This is the source list of OSS communities that use and live on Discord.
 - [Discord Branding](https://discord.com/branding) - Discord’s branding assets and guidelines.
-- [Discord Branding (Dribbble)](https://discord.design/) - Discord’s branding assets and guidelines.
+  - [Discord Branding (Dribbble)](https://discord.design/) - Discord’s branding assets and guidelines.
 - [Discord Nitro](https://dis.gd/nitro) - Information about Nitro subscriptions.
 - [Discord Status Page](https://dis.gd/status) - Provides information on the current status of the Discord services.
 - [Discord Developer Portal](https://discord.com/developers/) - The main website for developers to manage their apps, teams, OAuth2 scopes and more.
