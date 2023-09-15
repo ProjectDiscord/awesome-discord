@@ -2,8 +2,8 @@
 name: Issue Report
 about: What is the issue about?
 title: ''
-labels: Bug
-assignees: DuckoDas
+labels: bug
+assignees: notaestheticallyducko
 
 ---
 
