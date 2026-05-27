@@ -110,6 +110,7 @@
 - [DeepResearch](https://www.altr.fyi/) - Discord status that provides visualisations, analytics, and tools for chat-based communities.
 - [Experiments Rollouts](https://rollouts.advaith.io/) - Shows the current Discord experiments and their rollout percentage.
 - [Sylveon's Ban Appeal Website (self-host)](https://github.com/sylveon/discord-ban-appeals) - Sample ban appeals page with OAuth2 integration.
+- [FontPaste](https://fontpaste.net) - Free Discord font generator to copy & paste fancy Unicode text for usernames, nicknames & server names. No Nitro, no bot.
 
 ## 💬 Modifications
 
