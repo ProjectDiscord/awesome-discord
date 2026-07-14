@@ -111,6 +111,7 @@
 - [Experiments Rollouts](https://rollouts.advaith.io/) - Shows the current Discord experiments and their rollout percentage.
 - [Sylveon's Ban Appeal Website (self-host)](https://github.com/sylveon/discord-ban-appeals) - Sample ban appeals page with OAuth2 integration.
 - [FontPaste](https://fontpaste.net) - Free Discord font generator to copy & paste fancy Unicode text for usernames, nicknames & server names. No Nitro, no bot.
+- [BlancoKit](https://blancodagoat.dev/discord/) - A suite of 35 browser-based Discord developer tools: snowflake, permissions, and intents decoders, embed, slash-command, and OAuth2 builders, and user, invite, and webhook lookups. No bot, no install.
 
 ## 💬 Modifications
 
