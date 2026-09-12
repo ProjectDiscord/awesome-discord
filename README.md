@@ -61,6 +61,7 @@
 - [Emoji Guardian](https://emojiguardian.xyz/) - Manages emojis with various API - only commands.
 - [Truth Or Dare](https://truthordarebot.xyz/) - A bot for playing Truth Or Dare, Never Have I Ever and Would You Rather.
 - [Wick](https://wickbot.com/) - An advanced fully customizable moderation bot at your service with a lot of utilities and a dashboard to make your life easy.
+- [Botik](https://github.com/777genius/discord-meeting-assistant) - Self-hosted Discord meeting assistant that records voice calls, posts transcripts and summaries, and answers questions about the meeting.
 
 ## 💻 API Libraries
 
