@@ -76,6 +76,7 @@
 - [discord.js](https://github.com/discordjs/discord.js) - JavaScript
 - [Eris](https://github.com/abalabahaha/eris) - JavaScript
 - [Discordia](https://github.com/SinisterRectus/Discordia) - Lua
+- [discord.lua](https://github.com/filispeen/discord.lua) - Lua
 - [DiscordPHP](https://github.com/discord-php/DiscordPHP) - PHP
 - [discord.py](https://github.com/Rapptz/discord.py) - Python
 - [disnake](https://github.com/DisnakeDev/disnake) - Python
