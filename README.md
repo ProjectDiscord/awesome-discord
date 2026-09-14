@@ -19,6 +19,9 @@
 
 <h3 align='center'>An awesome list of resources for the voice and chat application Discord.</h3>
 
+> [!NOTE]
+> **New entries go to [CartiqoFramework/discord-resources](https://github.com/CartiqoFramework/discord-resources)**, where the list is kept up to date and its links are checked. Browse it at [cartiqo.xyz/discord-resources](https://cartiqo.xyz/discord-resources). This list stays up as it is.
+
 ## 📝 Categories
 
 - [Bots](#-bots)

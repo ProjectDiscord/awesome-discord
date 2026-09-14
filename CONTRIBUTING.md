@@ -1,5 +1,8 @@
 # Awesome Discord - Contribution Guidelines
 
+> [!NOTE]
+> **New entries go to [CartiqoFramework/discord-resources](https://github.com/CartiqoFramework/discord-resources).** Please open new pull requests there. This list stays up as it is.
+
 Thank you for considering contributing to the **Awesome Discord** project! Your contributions are valuable in making this repository a comprehensive resource for all things related to Discord. Before you begin, please take a moment to review and adhere to the following guidelines to ensure a smooth and collaborative contribution process.
 
 ## Code of Conduct
